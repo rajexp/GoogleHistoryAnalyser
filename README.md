@@ -16,15 +16,15 @@ For installing listed Libraries use these commands on terminal
 <h3>How to use:</h3></br>
 <ol>
 <li>Go to www.google.com/history</li>
-<li> Follow the steps below :
-<ol>
-<li>![open http://www.google.com/history](http://imgur.com/cnsUZVJ)</li>
-<li>![Click on create archive](http://imgur.com/DhSYgpS)</li>
-<li>![The history has been sent on your mail](http://imgur.com/S5yNFGN)</li>
-</ol>
-</li>
+<li> Follow the steps done in images below :</li>
 <li> Go to your mail and download the attachments sent by google</li>
 <li> The attachments will be downloaded in a folder name Searches.</li>
 <li>Extract that folder</li>
 <li><p>Run the file <b>google_history_analysor.py</b> and provide path to the <b>Searches</b> folder which contain <b>index.html</b> file and another Searches folder containing json files.</p></li>
 </ol>
+![open http://www.google.com/history](http://imgur.com/cnsUZVJ)<br>
+![Click on create archive](http://imgur.com/DhSYgpS)<br>
+![The history has been sent on your mail](http://imgur.com/S5yNFGN)<br>
+
+
+
