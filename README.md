@@ -34,25 +34,38 @@ How to use:
 Usage:
 ======
   1. Adding Folder where index.html is located
-    >>> provide path :C:\Users\Rajan\Downloads\Searches
+ 
+    ``>>> provide path :C:\Users\Rajan\Downloads\Searches``
   2. For getting top 10 results with frequency'
-    >>> get_top(10)
-    [('in', 631), ('to', 324), ('of', 262), ('for', 197), ('python', 192), ('how', 180), ('google', 122), ('on', 115), ('and', 112),       ('a', 105)]
+ 
+    ``>>> get_top(10)``
+
+    ``[('in', 631), ('to', 324), ('of', 262), ('for', 197), ('python', 192), ('how', 180), ('google', 122), ('on', 115), ('and', 112),       ('a', 105)]``
   3. For printing the top list in more readable form
-    >>> prettify(get_top(5))
-    in       :   631
-    to       :   324
-    of       :   262
-    for      :   197
-    python   :   192
+ 
+    ``>>> prettify(get_top(5))``
+
+    ``in       :   631``
+    
+    ``to       :   324``
+    
+    ``of       :   262``
+    
+    ``for      :   197``
+    
+    ``python   :   192``
   4. For getting the frequency of word searched 
-    >>> get_frequency('india')
-    49
+ 
+    ``>>> get_frequency('india')``
+
+    ``49``
   5. For saving the list of top searched words in file 
-    >>> save(get_top(100))
-    provide filename : googlehistoryfile.doc
-    File created successfully
-  
+ 
+    ``>>> save(get_top(100))``
+
+    ``>>>provide filename : googlehistoryfile.doc``
+    
+    ``File created successfully``
   
   
 
