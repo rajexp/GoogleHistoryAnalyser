@@ -27,9 +27,9 @@ How to use:
 5. Extract that folder</li>
 6. Run the file google_history_analysor.py and provide path to the <b>Searches</b> folder which contain index.html file and another Searches folder containing json files.
 
-![open http://www.google.com/history](http://imgur.com/cnsUZVJ)
-![Click on create archive](http://imgur.com/DhSYgpS)
-![The history has been sent on your mail](http://imgur.com/S5yNFGN)
+![alt tag](http://imgur.com/cnsUZVJ.jpg)
+![alt tag](http://imgur.com/DhSYgpS.jpg)
+![alt tag](http://imgur.com/S5yNFGN.jpg)
 
 Usage:
 ======
