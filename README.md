@@ -11,7 +11,7 @@ A program to analyse your google history in Python.
 
   For installing listed Libraries use these commands on terminal
 
-     ``python setup.py install``
+     python setup.py install
 # How to use:
 1. Go to www.google.com/history
 2. Follow the steps done in images below :
