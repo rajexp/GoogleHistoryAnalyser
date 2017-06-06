@@ -1,25 +1,18 @@
-======================
-GoogleHistoryAnalyser
-======================
-A program to analyse your google history in Python.
+# GoogleHistoryAnalyser  
+A program to analyse your google history in Python.  
 
-
-==============
- Requirements
-==============
+# Requirements  
 
 1. Python 3.2 +
 2. Zip file exractor like  WinZip
 
-Python Libraries Used
-======================
+# Python Libraries Used
 1. BeautifulSoup
 
   For installing listed Libraries use these commands on terminal
 
      ``python setup.py install``
-How to use:
-===========
+# How to use:
 1. Go to www.google.com/history
 2. Follow the steps done in images below :
 3. Go to your mail and download the attachments sent by google
@@ -31,8 +24,7 @@ How to use:
 ![alt tag](http://imgur.com/DhSYgpS.jpg)
 ![alt tag](http://imgur.com/S5yNFGN.jpg)
 
-Usage:
-======
+# Usage:
   1. Adding Folder where index.html is located
  
     ``>>> provide path :C:\Users\Rajan\Downloads\Searches``
